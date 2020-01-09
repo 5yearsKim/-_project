@@ -1,8 +1,9 @@
-# -_project
+# Final_project of "introduction of C programming"
+
+I made sample answer as a TA of this class
 
 simple score handling programming
-sample answer of final project
 
 
-example video link
+example video link:
 https://youtu.be/mdcDzE0x50A
